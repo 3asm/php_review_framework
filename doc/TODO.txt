@@ -1,0 +1,4 @@
+1 - Generate Taint Symbol Table
+1'- Taint propagation by functions
+2 - Propagate function taint
+3 - Add detection of filtering methods
