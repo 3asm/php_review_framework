@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: phply
+Version: dev
+Summary: PHP in Python
+Home-page: http://www.github.com/ramen/phply
+Author: Ramen
+Author-email: UNKNOWN
+License: BSD
+Description: 
+        PHPLY
+        --------------------
+        PHP implemented in Python
+        
+Platform: any
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: PHP
+Classifier: Operating System :: Unix
